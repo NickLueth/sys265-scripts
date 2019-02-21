@@ -1,2 +1,2 @@
-# sys265-scrips
+# sys265-scripts
 scripts
